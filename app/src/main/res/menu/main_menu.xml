@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/actionTestButton"
+        android:title="@string/test_button" />
+    <item
+        android:id="@+id/actionSettingButton"
+        android:icon="@mipmap/action_setting"
+        android:title="@string/action_setting_text"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/actionLogoutButton"
+        android:title="@string/action_logout_text" />
+    <item
+        android:id="@+id/actionAlarmButton"
+        android:title="@string/action_alarm_text" />
+    <item
+        android:id="@+id/actionTaskButton"
+        android:title="@string/action_task_text" />
+    <item
+        android:id="@+id/actionAlarmReminderButton"
+        android:title="@string/action_alarm_reminder_text" />
+
+</menu>

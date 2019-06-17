@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigationHome"
+        android:icon="@drawable/ic_home_white_24dp"
+        android:title="@string/navigation_home" />
+    <item
+        android:id="@+id/navigationMe"
+        android:icon="@drawable/ic_person_white_24dp"
+        android:title="@string/navigation_me" />
+    <item
+        android:id="@+id/navigationChart"
+        android:icon="@drawable/ic_show_chart_white_24dp"
+        android:title="@string/navigation_chart" />
+</menu>

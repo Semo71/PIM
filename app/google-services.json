@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "969674742285",
+    "firebase_url": "https://pim-project-779db.firebaseio.com",
+    "project_id": "pim-project-779db",
+    "storage_bucket": "pim-project-779db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969674742285:android:44cc5a1f863652ef",
+        "android_client_info": {
+          "package_name": "com.semo_prjects.pim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969674742285-2afism1m10hi4vdir4spt41d999kerkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.semo_prjects.pim",
+            "certificate_hash": "172cc1304f3fd131457cb748ba218f41921aef70"
+          }
+        },
+        {
+          "client_id": "969674742285-vhaa73e7q3o3bui7s5hm8dm65dai1kq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAehE2t3Ec6njCg3HBE8QG4eCUvTiW_o0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969674742285-vhaa73e7q3o3bui7s5hm8dm65dai1kq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

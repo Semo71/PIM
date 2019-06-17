@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">PIM</string>
+    <string name="welcome_to">Welcome to Progress Improvement Monitor</string>
+    <string name="email_hint">Your Email</string>
+    <string name="password_hint">Password</string>
+    <string name="loginText">Login to Account</string>
+    <string name="signupText">Need a new Account?</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_setting_text">Account Setting</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="creat_account_text">Creat a new Account</string>
+    <string name="signupTextP2">Creat new Account</string>
+    <string name="loginTextP2">Already have an Account?</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="setup_button_text">Save Account Setting</string>
+    <string name="navigation_home">Home</string>
+    <string name="navigation_me">Me</string>
+    <string name="navigation_chart">chart</string>
+    <string name="no_cardetails">Click on the button below to begin creating your reminder!</string>
+    <string name="title_activity_add_reminder">Add Reminder</string>
+    <string name="title_activity_edit_reminder">Edit Reminder</string>
+    <string name="title_activity_licenses">Licenses</string>
+
+    <string name="add_reminder">Reminder</string>
+    <string name="details">Details</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="repeat">Repeat</string>
+    <string name="repeat_off">Off</string>
+    <string name="repeat_no">Repetition Interval </string>
+    <string name="repeat_type">Type of Repetitions</string>
+
+    <string name="action_discard_reminder">Discard Reminder</string>
+    <string name="action_save_reminder">Save Reminder</string>
+
+    <string name="editor_activity_title_new_reminder">Add Reminder Details</string>
+    <string name="editor_activity_title_edit_reminder">Edit Reminder</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this Reminder?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_reminder_successful">Reminder deleted</string>
+
+    <string name="editor_delete_reminder_failed">Error with deleting reminder</string>
+
+    <string name="editor_insert_reminder_successful">Reminder saved</string>
+
+    <string name="editor_insert_reminder_failed">Error with saving reminder</string>
+
+    <string name="editor_update_reminder_successful">Reminder updated</string>
+
+    <string name="editor_update_reminder_failed">Error with updating reminder</string>
+
+    <string name="reminder_title">AlarmReminder</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test_button">Test Page</string>
+    <string name="action_alarm_text">Alarm</string>
+    <string name="action_task_text">Task</string>
+    <string name="title">Tesst</string>
+    <string name="content">tstaaaaaaaat</string>
+    <string name="action_alarm_reminder_text">Alarm Reminder</string>
+</resources>
